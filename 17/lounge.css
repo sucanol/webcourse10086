@@ -29,3 +29,13 @@ font-style: italic;
 font-family: Times New Roman;
 
 }
+.guarantee {
+  background-image: url(images/background.gif);
+	background-repeat: no-repeat;
+  background-position: top left;
+}
+.guarantee {
+  padding: 25px;
+  padding-left: 80px;
+	margin-right: 250px;
+}

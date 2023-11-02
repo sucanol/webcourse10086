@@ -51,5 +51,12 @@ font-family: Times New Roman;
 	background-image: url(images/cocktail.gif);
 	background-repeat: repeat-x;
 	text-align: center;
+	line-height: 1;
 
+}
+h1, h2 {
+  color: #007e7e;
+}
+.elixirs h2 {
+  color: black;
 }

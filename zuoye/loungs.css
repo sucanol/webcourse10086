@@ -1,39 +1,77 @@
 .l1 {
     color: #222222;
-    font: 18px ;
+    font-size: 16px ;
 }
 .u1 {
     color: #555555;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .u2 {
     color: #111111;
-    font-size: 14px;
+    font-size: 13px;
     word-spacing: 3px;
+    
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
 }
 
-.f7{
-    float: right;
+.f1{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.f2{
+    margin-top: 20px;
+    margin-left: -450px;
+}
+
+.f3{
+    margin-top: 20px;
+    margin-left: -450px;
+}
+
+.f4{
+    margin-top: 20px;
+    margin-left: -450px;
+}
+
+.f5{
+    margin-top: 20px;
+    margin-left: -450px;
+}
+
+.f6{
+    margin-top: 20px;
+    margin-left: -450px;
 }
 
 .pk {
-    padding: px;
-    float: right;
-} 
-
-.pk2 {
-    margin: 20px;
-}
-.f1 {
-    margin-right: 30px;
+    
+    margin-left: 20px;
 }
 
-.flex {
+.ph {
     display: flex;
+    justify-content: space-between;
+    margin-left: -16px;
+    margin-top: 50px;
 }
 
-.footer {
-    flex-direction: row;
+.f7{
+    margin-top: 20px;
+    margin-right: 100px;
 }
+
+.pk2{
+    margin-top: 50px;
+}
+
+
+
+
+
+
 
